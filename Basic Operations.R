@@ -21,7 +21,7 @@ Message
 X<-10L
 typeof(X)
 
-#Type of Double
+#Type of Double Integer
 Y<-2.5
 typeof(Y)
 
