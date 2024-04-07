@@ -17,7 +17,7 @@ Name<-"Arun"
 Message<-paste(Greet,Name)
 Message
 
-#Type of Integer 
+#Type of Int
 X<-10L
 typeof(X)
 
