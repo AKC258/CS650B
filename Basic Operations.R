@@ -21,7 +21,7 @@ Message
 X<-10L
 typeof(X)
 
-#Type of Double Integer
+#Type of Double 
 Y<-2.5
 typeof(Y)
 
@@ -29,11 +29,18 @@ typeof(Y)
 Z<-3+5i
 typeof(Z)
 
-#Comparison
-a<-"h"
+#Type of OPERATORS
+a<-"G"
 typeof(a)
 
-A<-10
+#Logical
+Q<-T
+typeof(Q)
+P<-FALSE
+typeof(P)
+
+#Multiple Operators
+A<-30
 B<-20
 C<-A+B
 D<-A-B
